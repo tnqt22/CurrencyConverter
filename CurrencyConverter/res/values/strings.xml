@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Currency Converter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Currency Converter</string>
+    <string name="hint">Amount to be Converted</string>
+    <string name="txtFrom">From:</string>
+    <string name="txtTo">To:</string>
+    <string name="prompt">Select Group</string>
+    <string-array name="spinnerFrom">
+        <item >USD</item>
+        <item >EUR</item>
+        <item >MXN</item>
+        <item >CAD</item>
+    </string-array>
+    <string-array name="spinnerTo">
+        <item >EUR</item>
+        
+        <item >MXN</item>
+        <item >CAD</item><item>USD</item>
+    </string-array>
+    <string name="txtRate">Rate:</string>
+    <string name="btnConvert">Convert</string>
+    <string name="txtCredit">Created By Thao</string>
+    <string name="txtClass">ITEC 4550 - Fall 2014</string>
+
+</resources>
